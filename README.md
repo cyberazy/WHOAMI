@@ -11,7 +11,7 @@ Information security enthusiast and bug hunter, focused on web application secur
 - [Blog-post](https://github.com/secfinder/Blog-post) - a curated list of bug bounty and web security blogs, researchers and writeups
 
 ### Find me
-- X (Twitter): [@finder_sec](https://x.com/finder_sec)
+- X (Twitter): [@0_source](https://x.com/0_source)
 
 <!--
 Ideas to add later: HackerOne / Bugcrowd profile links, Hall of Fame mentions, writeups.
